@@ -1,0 +1,35 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/Balance checker/out/
+/Problems/Balance checker/out/production/classes/
+/Problems/Boys in the sport class/out/
+/Problems/Boys in the sport class/out/production/classes/
+/Problems/Constructor property/out/
+/Problems/Constructor property/out/production/classes/
+/Problems/First, second, third/out/
+/Problems/First, second, third/out/production/classes/
+/Problems/From 0 to 9/out/
+/Problems/From 0 to 9/out/production/classes/
+/Problems/Hello, Kotlin/out/
+/Problems/Hello, Kotlin/out/production/classes/
+/Problems/How many nuts will be left after division/out/
+/Problems/How many nuts will be left after division/out/production/classes/
+/Problems/I like Kotlin/out/
+/Problems/I like Kotlin/out/production/classes/
+/Problems/N-th symbol/out/
+/Problems/N-th symbol/out/production/classes/
+/Problems/Reversing a number/out/
+/Problems/Reversing a number/out/production/classes/
+/Problems/Strings as objects/out/
+/Problems/Strings as objects/out/production/classes/
+/Problems/The eternal truth/out/
+/Problems/The eternal truth/out/production/classes/
+/Problems/The result of a game in Tic-Tac-Toe/out/
+/Problems/The result of a game in Tic-Tac-Toe/out/production/classes/
+/Problems/The sequence 1 2 2 3 3 3 .../out/
+/Problems/The sequence 1 2 2 3 3 3 .../out/production/classes/
+/Problems/Your name/out/
+/Problems/Your name/out/production/classes/
